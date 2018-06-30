@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\ListViewExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Student\Desktop\ListViewExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_665c91586aae614c0fa1d0f30c431cab98c212ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\ListViewExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa34a1e1ccfae27610920b5143056d6ca73141ce">
+        <dex dex="C:\Users\Student\Desktop\ListViewExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_753c2da59331f83d855b8b8a692ad85773bb6e7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.3\1262995965440e28ba5c4d480c9c9ab4ccce84cc\picasso-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="C:\Users\Student\Desktop\ListViewExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.3_4d8c7dd38bb383809901694ca1a1331fe06733f4\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+ <ImageView
+     android:id="@+id/player_image"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:src="@drawable/messi"
+     android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/clube"
+        android:layout_width="259dp"
+        android:layout_height="52dp"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="@dimen/Player_club"
+        android:text="@string/barcelona"
+        android:textColor="@color/club"
+        android:textSize="@dimen/player_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/palyer"
+        android:layout_width="282dp"
+        android:layout_height="59dp"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="@dimen/player_text_margin"
+        android:text="@string/lionel_messi"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/player_text_size"
+        android:textStyle="bold" />
+
+</FrameLayout>

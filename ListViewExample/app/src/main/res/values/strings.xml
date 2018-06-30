@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_posts">PostsActivity</string>
+    <string name="lionel_messi">Lionel Messi</string>
+    <string name="barcelona">Barcelona</string>
+</resources>
